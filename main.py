@@ -7,7 +7,6 @@ from selenium.webdriver.chrome.options import Options
 from bs4 import BeautifulSoup
 from dotenv import load_dotenv
 load_dotenv()
-# from selenium.webdriver.common.keys import Keys
 import chromedriver_autoinstaller
 chromedriver_autoinstaller.install()
 
